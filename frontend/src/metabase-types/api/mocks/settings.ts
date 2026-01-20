@@ -179,9 +179,9 @@ export const createMockSettings = (
     ["es", "Spanish"],
     ["ko", "Korean"],
     ["pt_BR", "Portuguese (Brazil)"],
-    ["zh_CN", "Chinese (China)"],
-    ["zh_HK", "Chinese (Hong Kong SAR China)"],
-    ["zh_TW", "Chinese (Taiwan)"],
+    ["zh_CN", "Nepalis"],
+    ["zh_HK", "Chinese (Traditional)"],
+    ["zh_TW", "Palestinian"],
   ],
   "available-timezones": [
     // this is a subset of the timezones we have in the real app
